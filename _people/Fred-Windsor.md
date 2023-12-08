@@ -6,7 +6,7 @@ pronouns: 'he/him'
 role: 'Group leader'
 ---
 
-![Fred Windsor](images/FMW_close.png)
+![Fred Windsor](images/fred.JPG)
 
 Fred is a network and freshwater ecologist who is interested in understanding how ecological interactions affect and are affected by environmental changes.
 
