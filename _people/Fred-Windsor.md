@@ -6,7 +6,7 @@ pronouns: 'he/him'
 role: 'Group leader'
 ---
 
-!["Fred Windsor"](images/fred.JPG)
+![Fred Windsor](https://github.com/Freshwater-Networks-Lab/freshwater-networks-lab.github.io/edit/master/images/fred.JPG)
 
 Fred is a network and freshwater ecologist who is interested in understanding how ecological interactions affect and are affected by environmental changes.
 
