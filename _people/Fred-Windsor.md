@@ -1,7 +1,7 @@
 ---
 title: "Fred Windsor"
 collection: people
-permalink: /publication/Fred-Windsor
+permalink: /people/Fred-Windsor
 pronouns: 'he/him'
 role: 'Group leader'
 ---
