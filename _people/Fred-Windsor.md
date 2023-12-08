@@ -4,6 +4,9 @@ collection: people
 permalink: /people/Fred-Windsor
 pronouns: 'he/him'
 role: 'Group leader'
+redirect_from: 
+  - /people/
+  - /people.html
 ---
 
 ![Fred Windsor](images/fred.JPG)
