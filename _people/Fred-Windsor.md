@@ -6,7 +6,7 @@ pronouns: 'he/him'
 role: 'Group leader'
 ---
 
-![Fred Windsor](fred.jpg){:width="300px" height="200px"}
+![Fred Windsor](fred.JPG){:width="300px" height="200px"}
 
 I am a network and freshwater ecologist who is interested in understanding how ecological interactions affect and are affected by environmental changes. Technically, I am the Group lead of the Freshwater Networks Lab, but really it is a massive group effort! 
 
