@@ -7,7 +7,7 @@ role: 'PhD Researcher'
 ---
 
 ![Joe D'Souza](JDS.JPG)
-
+![JDS.JPG](image.jpg =300x200)
 I am a first year PhD Researcher interested in freshwaters and the impacts of pollutants within these envionments. I have previously investigated the fate of microplastics within dippers (Cinclus cinclus) and published some of the first evidence of food web transfer of microplastics in freshwater ecosystems. I've also worked as a terrestrial ecologist for a large-scale consultancy undertaking ecological surveys and impact assessments for nationally significant infrastructure projects. 
 Outside of work I enjoy exploring the many walks in South Wales, cooking and spending too much time playing ultimate frisbee. invested I am a network and freshwater ecologist who is interested in understanding how ecological interactions affect and are affected by environmental changes.
 
